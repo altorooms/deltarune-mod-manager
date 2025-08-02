@@ -1,2 +1,4 @@
 # deltarune-mod-manager
-windows限定となりますが、modのオンオフを管理できるアプリを作成してみました。
+windows限定となりますが、modのオンオフを管理できるアプリを作成してみました。  
+modsファイル内に導入したいmodのファイルを作成し、chapter1data.winのような形でdata.winを置いてください  
+xdelta形式でアップロードされているものは予めdata.wnにパッチを当てたものをリネームしてchapter1data.winなどに変更してください。
